@@ -1,0 +1,84 @@
+# Copyright (C) 2012 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/howdy-tweaks\n"
+"POT-Creation-Date: 2012-05-07 21:59:34+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2012-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: howdy-greeting-tweaks.php:60 howdy-greeting-tweaks.php:75
+#: howdy-greeting-tweaks.php:141
+msgid "Howdy Tweaks"
+msgstr ""
+
+#: howdy-greeting-tweaks.php:83
+msgid "Greeting"
+msgstr ""
+
+#: howdy-greeting-tweaks.php:84
+msgid "Available placeholders: %1$s"
+msgstr ""
+
+#: howdy-greeting-tweaks.php:85
+msgid "If not specified, %name% will be added to the end. "
+msgstr ""
+
+#: howdy-greeting-tweaks.php:93 howdy-greeting-tweaks.php:101
+msgid "Label"
+msgstr ""
+
+#: howdy-greeting-tweaks.php:94 howdy-greeting-tweaks.php:102
+msgid "Favorites"
+msgstr ""
+
+#: howdy-greeting-tweaks.php:95 howdy-greeting-tweaks.php:103
+msgid "Info Links"
+msgstr ""
+
+#: howdy-greeting-tweaks.php:96 howdy-greeting-tweaks.php:104
+msgid "Link"
+msgstr ""
+
+#: howdy-greeting-tweaks.php:126
+msgid "Save"
+msgstr ""
+
+#: howdy-greeting-tweaks.php:126
+msgid "Add another row"
+msgstr ""
+
+#: howdy-greeting-tweaks.php:148
+msgid ""
+"Items checked \"Favorites\" will appear in a new Favorites menu on the right "
+"side of the Toolbar."
+msgstr ""
+
+#: howdy-greeting-tweaks.php:149
+msgid "If there are no \"favorites,\" the menu will not be created."
+msgstr ""
+
+#: howdy-greeting-tweaks.php:150
+msgid ""
+"You can drag-n-drop each row so the the items will appear in the order you'd "
+"prefer"
+msgstr ""
+
+#: howdy-greeting-tweaks.php:151
+msgid "Click \"Add another row\" to quickly add more items."
+msgstr ""
+
+#: howdy-greeting-tweaks.php:152
+msgid "To remove an item, simply delete its label."
+msgstr ""
+
+#: howdy-greeting-tweaks.php:153
+msgid ""
+"If you are using WordPress Multisite, you can use %s as a placeholder for "
+"the current site's ID."
+msgstr ""
